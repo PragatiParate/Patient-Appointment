@@ -4,8 +4,9 @@ You should make an appointment by calling or by email. Do not try to make appoin
 ## technologies use :
 -HTML
 -CSS
--React
--javaScript
+-ReactJs
+-JavaScript
+-TypeScript
 
 # Patient_Appointment
 

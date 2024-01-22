@@ -5,6 +5,7 @@ You should make an appointment by calling or by email. Do not try to make appoin
 -HTML
 -CSS
 -React
+-javaScript
 
 # Patient_Appointment
 
